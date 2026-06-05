@@ -13,7 +13,7 @@ app.use(express.json());
 
 // ⚠️ Substitui pelo teu novo JWT Token (após regenerares)
 const SE_JWT = process.env.SE_JWT || '';
-const SE_CHANNEL = '60a96e1f23e4423710564961';
+const SE_CHANNEL = 'yQnyb2gP8cqP84EYhcc2dLIl0ZBHIE1jtdxp-sIGhCgM2o5C';
 const CUSTO_PONTOS = 5;
 
 const SE_BASE = 'https://api.streamelements.com/kappa/v2';
